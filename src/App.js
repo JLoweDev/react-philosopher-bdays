@@ -4,7 +4,13 @@ import List from './components/List';
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    <main>
+      <section className="container">
+        <h3>0 birthdays today</h3>
+        <List />
+        <button onClick={() => console.log('beef')}></button>
+      </section>
+    </main>
   );
 }
 
