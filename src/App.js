@@ -3,11 +3,13 @@ import data from './components/data';
 import List from './components/List';
 
 function App() {
+  const [people, setPeople] = useState(data)
+
   return (
     <main>
       <section className="container">
-        <h3>0 birthdays today</h3>
-        <List />
+        <h3>{people.length} birthdays today</h3>
+        <List people={people} />
         <button onClick={() => console.log('beef')}>Clear All</button>
       </section>
     </main>
