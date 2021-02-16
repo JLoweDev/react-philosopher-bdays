@@ -1,10 +1,10 @@
 export default [
     {
       id: 1,
-      name: 'Bertie Yates',
-      dob: '19800612',
+      name: 'Sir Isaac Newton',
+      dob: '16430104',
       image:
-        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sir_Isaac_Newton_%281643-1727%29.jpg/220px-Sir_Isaac_Newton_%281643-1727%29.jpg',
     },
     {
       id: 2,
