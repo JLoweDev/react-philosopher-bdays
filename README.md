@@ -7,3 +7,5 @@ Create a react app to display philosophers born on the same day that the app is 
 ## Todo
 
 ## Issues
+
+1. Need complete scraping to allow app to function completely
