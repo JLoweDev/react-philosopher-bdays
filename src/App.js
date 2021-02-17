@@ -17,14 +17,14 @@ function App() {
     const res = await fetch('run_results.json')
     const myJson = await res.json()
 
-    return myJson
+    return myJson.selection1
   }
 
   return (
     <main>
       <section className="container">
         <h3>{jsonPeople.length} birthdays today</h3>
-        <List people={jsonPeople.selection1} />
+        <List people={jsonPeople} />
         <button onClick={() => console.log('beef')}>Clear All</button>
       </section>
     </main>
