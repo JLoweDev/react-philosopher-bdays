@@ -4,6 +4,10 @@ import List from './components/List';
 function App() {
   const [jsonPeople, setJsonPeople] = useState([])
 
+  const todaysDate = Date.now();
+
+  console.log(todaysDate)
+
   useEffect(() => {
     const getData = async () => {
       const dataFromJson = await fetchTasks()
