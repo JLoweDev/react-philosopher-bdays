@@ -1,6 +1,8 @@
 import React from 'react';
 
 const List = ({people}) => {
+  const jsonData = JSON.parse()
+
   return (
     <>
       {people.map((person) => {
