@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import List from './components/List';
 
+
 function App() {
   const [jsonPeople, setJsonPeople] = useState([])
 
@@ -23,9 +24,12 @@ function App() {
   return (
     <main>
       <section className="container">
-        <h3>{jsonPeople.length} birthdays today</h3>
+        <h3>Philosophers Born Today</h3>
         <List people={jsonPeople} />
-        <button onClick={() => console.log('beef')}>Clear All</button>
+        <button onClick={(e) => {
+          e.preventDefault();
+          window.location.href='https://github.com/JLoweDev/react-philosopher-bdays'
+        }}>Github</button>
       </section>
     </main>
   );
