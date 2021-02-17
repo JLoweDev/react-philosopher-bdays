@@ -4,7 +4,7 @@ import List from './components/List';
 function App() {
   const [jsonPeople, setJsonPeople] = useState([])
 
-  const todaysDate = Date.now();
+  const todaysDate = new Date();
   const bDay = new Date('Jan 03, 2012')
 
   console.log(todaysDate)
