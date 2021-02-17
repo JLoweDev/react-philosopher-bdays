@@ -7,7 +7,7 @@ const List = ({ people }) => {
     <>
       {people.map((person) => {
           const {name,dob,img_url} = person;
-          return <article className="person">
+          return <article className="person" key={person.index}>
               <img src={img_url} alt={name}/>
               <div>
                   <h4>{name}</h4>
