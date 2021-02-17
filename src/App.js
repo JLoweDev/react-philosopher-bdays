@@ -17,7 +17,7 @@ function App() {
     const res = await fetch('run_results.json')
     const myJson = await res.json()
 
-    return myJson.selection1
+    return myJson.philosophers
   }
 
   return (

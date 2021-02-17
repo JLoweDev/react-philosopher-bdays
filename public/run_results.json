@@ -1,198 +1,1147 @@
 {
- "selection1": [
-  {
-   "name": "Isaac Newton",
-   "dob": "Jan 04, 1643",
-   "img_url": "https://www.bornglorious.com/newthumbs/09/35/935.jpg"
-  },
-  {
-   "name": "Alexander Hamilton",
-   "dob": "Jan 11, 1757",
-   "img_url": "https://www.bornglorious.com/newthumbs/17/89/178903.png"
-  },
-  {
-   "name": "Swami Vivekananda",
-   "dob": "Jan 12, 1863",
-   "img_url": "https://www.bornglorious.com/newthumbs/47/47/47478.jpg"
-  },
-  {
-   "name": "Alan Watts",
-   "dob": "Jan 06, 1915",
-   "img_url": "https://www.bornglorious.com/nothumb/?nm=Alan%20Watts"
-  },
-  {
-   "name": "Thomas Aquinas",
-   "dob": "Jan 25, 1225",
-   "img_url": "https://www.bornglorious.com/newthumbs/94/38/9438.jpg"
-  },
-  {
-   "name": "Francis Bacon",
-   "dob": "Jan 22, 1561",
-   "img_url": "https://www.bornglorious.com/newthumbs/37/38/37388.jpg"
-  },
-  {
-   "name": "Cicero",
-   "dob": "BC Jan 03, 0106",
-   "img_url": "https://www.bornglorious.com/newthumbs/15/41/1541.jpg"
-  },
-  {
-   "name": "Lewis Carroll",
-   "dob": "Jan 27, 1832",
-   "img_url": "https://www.bornglorious.com/newthumbs/38/08/38082.jpg"
-  },
-  {
-   "name": "Simone de Beauvoir",
-   "dob": "Jan 09, 1908",
-   "img_url": "https://www.bornglorious.com/newthumbs/71/97/7197.jpg"
-  },
-  {
-   "name": "Angela Davis",
-   "dob": "Jan 26, 1944",
-   "img_url": "https://www.bornglorious.com/newthumbs/16/04/160456.jpg"
-  },
-  {
-   "name": "Edmund Burke",
-   "dob": "Jan 12, 1729",
-   "img_url": "https://www.bornglorious.com/newthumbs/16/57/165792.JPG"
-  },
-  {
-   "name": "Susan Sontag",
-   "dob": "Jan 16, 1933",
-   "img_url": "https://www.bornglorious.com/newthumbs/15/28/152824.jpg"
-  },
-  {
-   "name": "William James",
-   "dob": "Jan 11, 1842",
-   "img_url": "https://www.bornglorious.com/newthumbs/12/52/125249.jpg"
-  },
-  {
-   "name": "Montesquieu",
-   "dob": "Jan 18, 1689",
-   "img_url": "https://www.bornglorious.com/newthumbs/15/97/15975.jpg"
-  },
-  {
-   "name": "Antonio Gramsci",
-   "dob": "Jan 22, 1891",
-   "img_url": "https://www.bornglorious.com/newthumbs/83/00/83003.png"
-  },
-  {
-   "name": "Maharishi Mahesh Yogi",
-   "dob": "Jan 12, 1917",
-   "img_url": "https://www.bornglorious.com/newthumbs/24/49/244968.JPG"
-  },
-  {
-   "name": "Auguste Comte",
-   "dob": "Jan 19, 1798",
-   "img_url": "https://www.bornglorious.com/newthumbs/12/71/12718.jpg"
-  },
-  {
-   "name": "Umberto Eco",
-   "dob": "Jan 05, 1932",
-   "img_url": "https://www.bornglorious.com/newthumbs/12/80/12807.jpg"
-  },
-  {
-   "name": "Gilles Deleuze",
-   "dob": "Jan 18, 1925",
-   "img_url": "https://www.bornglorious.com/nothumb/?nm=Gilles%20Deleuze"
-  },
-  {
-   "name": "Albert Schweitzer",
-   "dob": "Jan 14, 1875",
-   "img_url": "https://www.bornglorious.com/newthumbs/49/32/49325.jpg"
-  },
-  {
-   "name": "Paramahansa Yogananda",
-   "dob": "Jan 05, 1893",
-   "img_url": "https://www.bornglorious.com/newthumbs/31/25/312549.jpg"
-  },
-  {
-   "name": "David Hilbert",
-   "dob": "Jan 23, 1862",
-   "img_url": "https://www.bornglorious.com/newthumbs/41/58/41585.jpg"
-  },
-  {
-   "name": "George Gurdjieff",
-   "dob": "Jan 13, 1866",
-   "img_url": "https://www.bornglorious.com/newthumbs/21/77/217771.JPG"
-  },
-  {
-   "name": "Alfred Rosenberg",
-   "dob": "Jan 12, 1893",
-   "img_url": "https://www.bornglorious.com/newthumbs/75/84/75849.jpg"
-  },
-  {
-   "name": "Robert Boyle",
-   "dob": "Jan 25, 1627",
-   "img_url": "https://www.bornglorious.com/newthumbs/43/39/43393.jpg"
-  },
-  {
-   "name": "Emanuel Swedenborg",
-   "dob": "Jan 29, 1688"
-  },
-  {
-   "name": "Aleksandr Dugin",
-   "dob": "Jan 07, 1962",
-   "img_url": "https://www.bornglorious.com/newthumbs/43/88/438839.jpg"
-  },
-  {
-   "name": "Nick Land",
-   "dob": "Jan 17, 1962",
-   "img_url": "https://www.bornglorious.com/nothumb/?nm=Nick%20Land"
-  },
-  {
-   "name": "Pierre-Joseph Proudhon",
-   "dob": "Jan 15, 1809",
-   "img_url": "https://www.bornglorious.com/newthumbs/57/49/5749.jpg"
-  },
-  {
-   "name": "Al-Farabi",
-   "dob": "Jan 10, 0872",
-   "img_url": "https://www.bornglorious.com/newthumbs/16/04/160460.jpg"
-  },
-  {
-   "name": "Ngũgĩ wa Thiong'o",
-   "dob": "Jan 05, 1938",
-   "img_url": "https://www.bornglorious.com/newthumbs/30/29/302910.JPG"
-  },
-  {
-   "name": "Ethan Allen",
-   "dob": "Jan 21, 1738",
-   "img_url": "https://www.bornglorious.com/newthumbs/55/20/552007.jpg"
-  },
-  {
-   "name": "André-Marie Ampère",
-   "dob": "Jan 20, 1775",
-   "img_url": "https://www.bornglorious.com/newthumbs/06/75/675.jpg"
-  },
-  {
-   "name": "Mooji",
-   "dob": "Jan 29, 1954",
-   "img_url": "https://www.bornglorious.com/newthumbs/50/15/5015394.jpg"
-  },
-  {
-   "name": "Robert Anton Wilson",
-   "dob": "Jan 18, 1932",
-   "img_url": "https://www.bornglorious.com/newthumbs/31/42/314215.jpg"
-  },
-  {
-   "name": "Richard Posner",
-   "dob": "Jan 11, 1939",
-   "img_url": "https://www.bornglorious.com/newthumbs/53/35/533583.jpg"
-  },
-  {
-   "name": "John Dalberg-Acton, 1st Baron Acton",
-   "dob": "Jan 10, 1834",
-   "img_url": "https://www.bornglorious.com/newthumbs/31/17/311778.jpg"
-  },
-  {
-   "name": "Edward Abbey",
-   "dob": "Jan 29, 1927",
-   "img_url": "https://www.bornglorious.com/nothumb/?nm=Edward%20Abbey"
-  },
-  {
-   "name": "Murray Bookchin",
-   "dob": "Jan 14, 1921",
-   "img_url": "https://www.bornglorious.com/newthumbs/31/59/315910.jpg"
-  }
- ]
-}
+    "philosophers": [
+     {
+      "name": "Isaac Newton",
+      "dob": "Jan 04, 1643",
+      "img_url": "https://www.bornglorious.com/newthumbs/09/35/935.jpg",
+      "id": "1"
+     },
+     {
+      "name": "Alexander Hamilton",
+      "dob": "Jan 11, 1757",
+      "img_url": "https://www.bornglorious.com/newthumbs/17/89/178903.png",
+      "id": "2"
+     },
+     {
+      "name": "Swami Vivekananda",
+      "dob": "Jan 12, 1863",
+      "img_url": "https://www.bornglorious.com/newthumbs/47/47/47478.jpg",
+      "id": "3"
+     },
+     {
+      "name": "Alan Watts",
+      "dob": "Jan 06, 1915",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Alan%20Watts",
+      "id": "4"
+     },
+     {
+      "name": "Thomas Aquinas",
+      "dob": "Jan 25, 1225",
+      "img_url": "https://www.bornglorious.com/newthumbs/94/38/9438.jpg",
+      "id": "5"
+     },
+     {
+      "name": "Francis Bacon",
+      "dob": "Jan 22, 1561",
+      "img_url": "https://www.bornglorious.com/newthumbs/37/38/37388.jpg",
+      "id": "6"
+     },
+     {
+      "name": "Cicero",
+      "dob": "BC Jan 03, 0106",
+      "img_url": "https://www.bornglorious.com/newthumbs/15/41/1541.jpg",
+      "id": "7"
+     },
+     {
+      "name": "Lewis Carroll",
+      "dob": "Jan 27, 1832",
+      "img_url": "https://www.bornglorious.com/newthumbs/38/08/38082.jpg",
+      "id": "8"
+     },
+     {
+      "name": "Simone de Beauvoir",
+      "dob": "Jan 09, 1908",
+      "img_url": "https://www.bornglorious.com/newthumbs/71/97/7197.jpg",
+      "id": "9"
+     },
+     {
+      "name": "Angela Davis",
+      "dob": "Jan 26, 1944",
+      "img_url": "https://www.bornglorious.com/newthumbs/16/04/160456.jpg",
+      "id": "10"
+     },
+     {
+      "name": "Edmund Burke",
+      "dob": "Jan 12, 1729",
+      "img_url": "https://www.bornglorious.com/newthumbs/16/57/165792.JPG",
+      "id": "11"
+     },
+     {
+      "name": "Susan Sontag",
+      "dob": "Jan 16, 1933",
+      "img_url": "https://www.bornglorious.com/newthumbs/15/28/152824.jpg",
+      "id": "12"
+     },
+     {
+      "name": "William James",
+      "dob": "Jan 11, 1842",
+      "img_url": "https://www.bornglorious.com/newthumbs/12/52/125249.jpg",
+      "id": "13"
+     },
+     {
+      "name": "Montesquieu",
+      "dob": "Jan 18, 1689",
+      "img_url": "https://www.bornglorious.com/newthumbs/15/97/15975.jpg",
+      "id": "14"
+     },
+     {
+      "name": "Antonio Gramsci",
+      "dob": "Jan 22, 1891",
+      "img_url": "https://www.bornglorious.com/newthumbs/83/00/83003.png",
+      "id": "15"
+     },
+     {
+      "name": "Maharishi Mahesh Yogi",
+      "dob": "Jan 12, 1917",
+      "img_url": "https://www.bornglorious.com/newthumbs/24/49/244968.JPG",
+      "id": "16"
+     },
+     {
+      "name": "Auguste Comte",
+      "dob": "Jan 19, 1798",
+      "img_url": "https://www.bornglorious.com/newthumbs/12/71/12718.jpg",
+      "id": "17"
+     },
+     {
+      "name": "Umberto Eco",
+      "dob": "Jan 05, 1932",
+      "img_url": "https://www.bornglorious.com/newthumbs/12/80/12807.jpg",
+      "id": "18"
+     },
+     {
+      "name": "Gilles Deleuze",
+      "dob": "Jan 18, 1925",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Gilles%20Deleuze",
+      "id": "19"
+     },
+     {
+      "name": "Albert Schweitzer",
+      "dob": "Jan 14, 1875",
+      "img_url": "https://www.bornglorious.com/newthumbs/49/32/49325.jpg",
+      "id": "20"
+     },
+     {
+      "name": "Paramahansa Yogananda",
+      "dob": "Jan 05, 1893",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/25/312549.jpg",
+      "id": "21"
+     },
+     {
+      "name": "David Hilbert",
+      "dob": "Jan 23, 1862",
+      "img_url": "https://www.bornglorious.com/newthumbs/41/58/41585.jpg",
+      "id": "22"
+     },
+     {
+      "name": "George Gurdjieff",
+      "dob": "Jan 13, 1866",
+      "img_url": "https://www.bornglorious.com/newthumbs/21/77/217771.JPG",
+      "id": "23"
+     },
+     {
+      "name": "Alfred Rosenberg",
+      "dob": "Jan 12, 1893",
+      "img_url": "https://www.bornglorious.com/newthumbs/75/84/75849.jpg",
+      "id": "24"
+     },
+     {
+      "name": "Robert Boyle",
+      "dob": "Jan 25, 1627",
+      "img_url": "https://www.bornglorious.com/newthumbs/43/39/43393.jpg",
+      "id": "25"
+     },
+     {
+      "name": "Emanuel Swedenborg",
+      "dob": "Jan 29, 1688",
+      "id": "26"
+     },
+     {
+      "name": "Aleksandr Dugin",
+      "dob": "Jan 07, 1962",
+      "img_url": "https://www.bornglorious.com/newthumbs/43/88/438839.jpg",
+      "id": "27"
+     },
+     {
+      "name": "Nick Land",
+      "dob": "Jan 17, 1962",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Nick%20Land",
+      "id": "28"
+     },
+     {
+      "name": "Pierre-Joseph Proudhon",
+      "dob": "Jan 15, 1809",
+      "img_url": "https://www.bornglorious.com/newthumbs/57/49/5749.jpg",
+      "id": "29"
+     },
+     {
+      "name": "Al-Farabi",
+      "dob": "Jan 10, 0872",
+      "img_url": "https://www.bornglorious.com/newthumbs/16/04/160460.jpg",
+      "id": "30"
+     },
+     {
+      "name": "Ngũgĩ wa Thiong'o",
+      "dob": "Jan 05, 1938",
+      "img_url": "https://www.bornglorious.com/newthumbs/30/29/302910.JPG",
+      "id": "31"
+     },
+     {
+      "name": "Ethan Allen",
+      "dob": "Jan 21, 1738",
+      "img_url": "https://www.bornglorious.com/newthumbs/55/20/552007.jpg",
+      "id": "32"
+     },
+     {
+      "name": "André-Marie Ampère",
+      "dob": "Jan 20, 1775",
+      "img_url": "https://www.bornglorious.com/newthumbs/06/75/675.jpg",
+      "id": "33"
+     },
+     {
+      "name": "Mooji",
+      "dob": "Jan 29, 1954",
+      "img_url": "https://www.bornglorious.com/newthumbs/50/15/5015394.jpg",
+      "id": "34"
+     },
+     {
+      "name": "Robert Anton Wilson",
+      "dob": "Jan 18, 1932",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/42/314215.jpg",
+      "id": "35"
+     },
+     {
+      "name": "Richard Posner",
+      "dob": "Jan 11, 1939",
+      "img_url": "https://www.bornglorious.com/newthumbs/53/35/533583.jpg",
+      "id": "36"
+     },
+     {
+      "name": "John Dalberg-Acton, 1st Baron Acton",
+      "dob": "Jan 10, 1834",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/17/311778.jpg",
+      "id": "37"
+     },
+     {
+      "name": "Edward Abbey",
+      "dob": "Jan 29, 1927",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Edward%20Abbey",
+      "id": "38"
+     },
+     {
+      "name": "Murray Bookchin",
+      "dob": "Jan 14, 1921",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/59/315910.jpg",
+      "id": "39"
+     },
+     {
+      "name": "Learned Hand",
+      "dob": "Jan 27, 1872",
+      "img_url": "https://www.bornglorious.com/newthumbs/49/31/493155.jpg",
+      "id": "40"
+     },
+     {
+      "name": "Aldo Leopold",
+      "dob": "Jan 11, 1887",
+      "img_url": "https://www.bornglorious.com/newthumbs/97/13/971382.jpg",
+      "id": "41"
+     },
+     {
+      "name": "Alain Badiou",
+      "dob": "Jan 17, 1937",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/10/311005.jpg",
+      "id": "42"
+     },
+     {
+      "name": "Alasdair MacIntyre",
+      "dob": "Jan 12, 1929",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/01/310178.jpg",
+      "id": "43"
+     },
+     {
+      "name": "Mahadev Govind Ranade",
+      "dob": "Jan 18, 1842",
+      "img_url": "https://www.bornglorious.com/newthumbs/98/24/982481.jpg",
+      "id": "44"
+     },
+     {
+      "name": "Emmanuel Levinas",
+      "dob": "Jan 12, 1906",
+      "img_url": "https://www.bornglorious.com/newthumbs/15/30/153034.jpg",
+      "id": "45"
+     },
+     {
+      "name": "Paul Feyerabend",
+      "dob": "Jan 13, 1924",
+      "img_url": "https://www.bornglorious.com/newthumbs/78/49/78497.jpg",
+      "id": "46"
+     },
+     {
+      "name": "Kahlil Gibran",
+      "dob": "Jan 06, 1883",
+      "img_url": "https://www.bornglorious.com/newthumbs/47/73/47737.jpg",
+      "id": "47"
+     },
+     {
+      "name": "Johann Heinrich Pestalozzi",
+      "dob": "Jan 12, 1746",
+      "img_url": "https://www.bornglorious.com/newthumbs/10/54/105428.jpg",
+      "id": "48"
+     },
+     {
+      "name": "Gotthold Ephraim Lessing",
+      "dob": "Jan 22, 1729",
+      "img_url": "https://www.bornglorious.com/newthumbs/34/62/34628.jpg",
+      "id": "49"
+     },
+     {
+      "name": "Jacques Ellul",
+      "dob": "Jan 06, 1912",
+      "img_url": "https://www.bornglorious.com/newthumbs/32/29/322922.jpg",
+      "id": "50"
+     },
+     {
+      "name": "Francis Schaeffer",
+      "dob": "Jan 30, 1912",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Francis%20Schaeffer",
+      "id": "51"
+     },
+     {
+      "name": "Eduard Bernstein",
+      "dob": "Jan 06, 1850",
+      "img_url": "https://www.bornglorious.com/newthumbs/75/78/75786.jpg",
+      "id": "52"
+     },
+     {
+      "name": "Friedrich Wilhelm Joseph Schelling",
+      "dob": "Jan 27, 1775",
+      "img_url": "https://www.bornglorious.com/newthumbs/60/07/60070.jpg",
+      "id": "53"
+     },
+     {
+      "name": "C. L. R. James",
+      "dob": "Jan 04, 1901",
+      "img_url": "https://www.bornglorious.com/newthumbs/77/38/773828.jpg",
+      "id": "54"
+     },
+     {
+      "name": "Arne Næss",
+      "dob": "Jan 27, 1912",
+      "img_url": "https://www.bornglorious.com/newthumbs/33/51/335152.jpg",
+      "id": "55"
+     },
+     {
+      "name": "Fukuzawa Yukichi",
+      "dob": "Jan 10, 1835",
+      "img_url": "https://www.bornglorious.com/newthumbs/35/54/355447.jpg",
+      "id": "56"
+     },
+     {
+      "name": "Joseph Nye",
+      "dob": "Jan 19, 1937",
+      "img_url": "https://www.bornglorious.com/newthumbs/21/03/210362.jpg",
+      "id": "57"
+     },
+     {
+      "name": "Alfred Tarski",
+      "dob": "Jan 14, 1901",
+      "img_url": "https://www.bornglorious.com/newthumbs/20/75/207534.jpeg",
+      "id": "58"
+     },
+     {
+      "name": "Christian Wolff (philosopher)",
+      "dob": "Jan 24, 1679",
+      "img_url": "https://www.bornglorious.com/newthumbs/76/51/76510.jpg",
+      "id": "59"
+     },
+     {
+      "name": "Daisaku Ikeda",
+      "dob": "Jan 02, 1928",
+      "img_url": "https://www.bornglorious.com/newthumbs/46/73/467395.jpg",
+      "id": "60"
+     },
+     {
+      "name": "Ilya Prigogine",
+      "dob": "Jan 12, 1917",
+      "img_url": "https://www.bornglorious.com/newthumbs/18/35/183509.jpg",
+      "id": "61"
+     },
+     {
+      "name": "Irving Kristol",
+      "dob": "Jan 22, 1920",
+      "img_url": "https://www.bornglorious.com/newthumbs/55/31/553196.jpg",
+      "id": "62"
+     },
+     {
+      "name": "Dōgen",
+      "dob": "Jan 19, 1200",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/80/318064.jpg",
+      "id": "63"
+     },
+     {
+      "name": "Michel Onfray",
+      "dob": "Jan 01, 1959",
+      "img_url": "https://www.bornglorious.com/newthumbs/70/60/7060.jpg",
+      "id": "64"
+     },
+     {
+      "name": "Abraham Joshua Heschel",
+      "dob": "Jan 11, 1907",
+      "img_url": "https://www.bornglorious.com/newthumbs/21/58/215833.jpg",
+      "id": "65"
+     },
+     {
+      "name": "Lysander Spooner",
+      "dob": "Jan 19, 1808",
+      "img_url": "https://www.bornglorious.com/newthumbs/53/80/538091.jpg",
+      "id": "66"
+     },
+     {
+      "name": "James Ussher",
+      "dob": "Jan 04, 1581",
+      "img_url": "https://www.bornglorious.com/newthumbs/33/34/333481.jpg",
+      "id": "67"
+     },
+     {
+      "name": "Jan Baptist van Helmont",
+      "dob": "Jan 12, 1580",
+      "img_url": "https://www.bornglorious.com/newthumbs/29/41/294169.jpg",
+      "id": "68"
+     },
+     {
+      "name": "Fuad Masum",
+      "dob": "Jan 01, 1938",
+      "img_url": "https://www.bornglorious.com/newthumbs/17/41/17410819.jpg",
+      "id": "69"
+     },
+     {
+      "name": "Wolfgang Köhler",
+      "dob": "Jan 21, 1887",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Wolfgang%20K%C3%B6hler",
+      "id": "70"
+     },
+     {
+      "name": "Alister McGrath",
+      "dob": "Jan 23, 1953",
+      "img_url": "https://www.bornglorious.com/newthumbs/45/11/451103.jpg",
+      "id": "71"
+     },
+     {
+      "name": "Jacob Bronowski",
+      "dob": "Jan 18, 1908",
+      "img_url": "https://www.bornglorious.com/newthumbs/37/41/374117.jpg",
+      "id": "72"
+     },
+     {
+      "name": "Vladimir Solovyov (philosopher)",
+      "dob": "Jan 16, 1853",
+      "img_url": "https://www.bornglorious.com/newthumbs/28/22/282280.jpg",
+      "id": "73"
+     },
+     {
+      "name": "Edward B. Titchener",
+      "dob": "Jan 11, 1867",
+      "img_url": "https://www.bornglorious.com/newthumbs/38/04/380456.jpg",
+      "id": "74"
+     },
+     {
+      "name": "Josef Breuer",
+      "dob": "Jan 15, 1842",
+      "img_url": "https://www.bornglorious.com/newthumbs/84/43/84430.jpg",
+      "id": "75"
+     },
+     {
+      "name": "Iris Marion Young",
+      "dob": "Jan 02, 1949",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Iris%20Marion%20Young",
+      "id": "76"
+     },
+     {
+      "name": "Stephen Cole Kleene",
+      "dob": "Jan 05, 1909",
+      "img_url": "https://www.bornglorious.com/newthumbs/33/51/335148.jpg",
+      "id": "77"
+     },
+     {
+      "name": "Eric Voegelin",
+      "dob": "Jan 03, 1901",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Eric%20Voegelin",
+      "id": "78"
+     },
+     {
+      "name": "Arthur Danto",
+      "dob": "Jan 01, 1924",
+      "img_url": "https://www.bornglorious.com/newthumbs/36/51/365129.jpg",
+      "id": "79"
+     },
+     {
+      "name": "Pitirim Sorokin",
+      "dob": "Jan 23, 1889",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/98/319816.jpg",
+      "id": "80"
+     },
+     {
+      "name": "Paul Virilio",
+      "dob": "Jan 04, 1932",
+      "img_url": "https://www.bornglorious.com/newthumbs/50/70/507014.jpg",
+      "id": "81"
+     },
+     {
+      "name": "Franz Brentano",
+      "dob": "Jan 16, 1838",
+      "img_url": "https://www.bornglorious.com/newthumbs/57/19/57196.jpg",
+      "id": "82"
+     },
+     {
+      "name": "Massimo Pigliucci",
+      "dob": "Jan 16, 1964",
+      "img_url": "https://www.bornglorious.com/newthumbs/13/61/1361585.jpg",
+      "id": "83"
+     },
+     {
+      "name": "Gene Sharp",
+      "dob": "Jan 21, 1928",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Gene%20Sharp",
+      "id": "84"
+     },
+     {
+      "name": "Robert Fludd",
+      "dob": "Jan 17, 1574",
+      "img_url": "https://www.bornglorious.com/newthumbs/45/36/453697.jpg",
+      "id": "85"
+     },
+     {
+      "name": "Martin Lings",
+      "dob": "Jan 24, 1909",
+      "img_url": "https://www.bornglorious.com/newthumbs/95/75/957553.jpg",
+      "id": "86"
+     },
+     {
+      "name": "Pierre Gassendi",
+      "dob": "Jan 22, 1592",
+      "img_url": "https://www.bornglorious.com/newthumbs/19/23/192315.jpg",
+      "id": "87"
+     },
+     {
+      "name": "Wasif Ali Wasif",
+      "dob": "Jan 15, 1929",
+      "img_url": "https://www.bornglorious.com/newthumbs/36/94/3694595.jpg",
+      "id": "88"
+     },
+     {
+      "name": "Michel Henry",
+      "dob": "Jan 10, 1922",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Michel%20Henry",
+      "id": "89"
+     },
+     {
+      "name": "John Hick",
+      "dob": "Jan 20, 1922",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=John%20Hick",
+      "id": "90"
+     },
+     {
+      "name": "Ernest Holmes",
+      "dob": "Jan 21, 1887",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Ernest%20Holmes",
+      "id": "91"
+     },
+     {
+      "name": "Paul Lafargue",
+      "dob": "Jan 15, 1842",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/71/317152.jpg",
+      "id": "92"
+     },
+     {
+      "name": "Robert Adams (spiritual teacher)",
+      "dob": "Jan 21, 1928",
+      "img_url": "https://www.bornglorious.com/newthumbs/16/85/16856763.jpg",
+      "id": "93"
+     },
+     {
+      "name": "Greg Johnson (white nationalist)",
+      "dob": "Jan 01, 1971",
+      "img_url": "https://www.bornglorious.com/newthumbs/48/79/48795638.jpg",
+      "id": "94"
+     },
+     {
+      "name": "Ahmed el-Tayeb",
+      "dob": "Jan 06, 1946",
+      "img_url": "https://www.bornglorious.com/newthumbs/33/87/338708.jpg",
+      "id": "95"
+     },
+     {
+      "name": "Rambhadracharya",
+      "dob": "Jan 14, 1950",
+      "img_url": "https://www.bornglorious.com/newthumbs/53/61/53619.jpg",
+      "id": "96"
+     },
+     {
+      "name": "Francisco Suárez",
+      "dob": "Jan 15, 1548",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/63/316339.jpg",
+      "id": "97"
+     },
+     {
+      "name": "Peter Gabel",
+      "dob": "Jan 28, 1947",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Peter%20Gabel",
+      "id": "98"
+     },
+     {
+      "name": "Lev Shestov",
+      "dob": "Jan 31, 1866",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/41/314189.jpg",
+      "id": "99"
+     },
+     {
+      "name": "Erich Neumann (psychologist)",
+      "dob": "Jan 23, 1905",
+      "img_url": "https://www.bornglorious.com/newthumbs/61/17/61171.jpg",
+      "id": "100"
+     },
+     {
+      "name": "Nicole Oresme",
+      "dob": "Jan 01, 1323",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/07/310777.jpg",
+      "id": "101"
+     },
+     {
+      "name": "Kenneth E. Boulding",
+      "dob": "Jan 18, 1910",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Kenneth%20E.%20Boulding",
+      "id": "102"
+     },
+     {
+      "name": "Charles Péguy",
+      "dob": "Jan 07, 1873",
+      "img_url": "https://www.bornglorious.com/newthumbs/33/49/334965.jpg",
+      "id": "103"
+     },
+     {
+      "name": "Joel Teitelbaum",
+      "dob": "Jan 13, 1887",
+      "img_url": "https://www.bornglorious.com/newthumbs/66/16/661697.jpg",
+      "id": "104"
+     },
+     {
+      "name": "Ernst Nolte",
+      "dob": "Jan 11, 1923",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Ernst%20Nolte",
+      "id": "105"
+     },
+     {
+      "name": "Friedrich Heinrich Jacobi",
+      "dob": "Jan 25, 1743",
+      "img_url": "https://www.bornglorious.com/newthumbs/16/80/168004.jpg",
+      "id": "106"
+     },
+     {
+      "name": "Baltasar Gracián",
+      "dob": "Jan 08, 1601",
+      "img_url": "https://www.bornglorious.com/newthumbs/36/05/360512.jpg",
+      "id": "107"
+     },
+     {
+      "name": "Nicolae Iorga",
+      "dob": "Jan 17, 1871",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/35/313581.jpg",
+      "id": "108"
+     },
+     {
+      "name": "Nel Noddings",
+      "dob": "Jan 19, 1929",
+      "img_url": "https://www.bornglorious.com/newthumbs/46/75/467525.jpg",
+      "id": "109"
+     },
+     {
+      "name": "Samuel von Pufendorf",
+      "dob": "Jan 08, 1632",
+      "img_url": "https://www.bornglorious.com/newthumbs/57/18/57186.jpg",
+      "id": "110"
+     },
+     {
+      "name": "Carl Gustav Hempel",
+      "dob": "Jan 08, 1905",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Carl%20Gustav%20Hempel",
+      "id": "111"
+     },
+     {
+      "name": "Hakuin Ekaku",
+      "dob": "Jan 19, 1686",
+      "img_url": "https://www.bornglorious.com/newthumbs/17/70/177059.jpg",
+      "id": "112"
+     },
+     {
+      "name": "David Strauss",
+      "dob": "Jan 27, 1808",
+      "img_url": "https://www.bornglorious.com/newthumbs/57/21/57219.jpg",
+      "id": "113"
+     },
+     {
+      "name": "Gianni Vattimo",
+      "dob": "Jan 04, 1936",
+      "img_url": "https://www.bornglorious.com/newthumbs/15/96/159648.jpg",
+      "id": "114"
+     },
+     {
+      "name": "Sadie Plant",
+      "dob": "Jan 01, 1964",
+      "img_url": "https://www.bornglorious.com/newthumbs/73/97/7397938.JPG",
+      "id": "115"
+     },
+     {
+      "name": "John Neihardt",
+      "dob": "Jan 08, 1881",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=John%20Neihardt",
+      "id": "116"
+     },
+     {
+      "name": "Pavel Florensky",
+      "dob": "Jan 09, 1882",
+      "img_url": "https://www.bornglorious.com/newthumbs/33/67/336769.jpg",
+      "id": "117"
+     },
+     {
+      "name": "John Eccles (neurophysiologist)",
+      "dob": "Jan 27, 1903",
+      "img_url": "https://www.bornglorious.com/newthumbs/27/32/273223.jpg",
+      "id": "118"
+     },
+     {
+      "name": "Antonie Pannekoek",
+      "dob": "Jan 02, 1873",
+      "img_url": "https://www.bornglorious.com/newthumbs/34/79/347930.gif",
+      "id": "119"
+     },
+     {
+      "name": "Manuel Cruz Rodríguez",
+      "dob": "Jan 01, 1951",
+      "img_url": "https://www.bornglorious.com/newthumbs/59/92/5992712.jpg",
+      "id": "120"
+     },
+     {
+      "name": "Robert Michels",
+      "dob": "Jan 09, 1876",
+      "img_url": "https://www.bornglorious.com/newthumbs/57/31/57314.jpg",
+      "id": "121"
+     },
+     {
+      "name": "Garegin Nzhdeh",
+      "dob": "Jan 01, 1886",
+      "img_url": "https://www.bornglorious.com/newthumbs/16/50/1650282.jpg",
+      "id": "122"
+     },
+     {
+      "name": "Achyutananda",
+      "dob": "Jan 10, 1510",
+      "img_url": "https://www.bornglorious.com/newthumbs/35/95/3595804.png",
+      "id": "123"
+     },
+     {
+      "name": "Nancy Cartwright (philosopher)",
+      "dob": "Jan 24, 1944",
+      "img_url": "https://www.bornglorious.com/newthumbs/51/29/512979.jpg",
+      "id": "124"
+     },
+     {
+      "name": "Claude Adrien Helvétius",
+      "dob": "Jan 26, 1715",
+      "id": "125"
+     },
+     {
+      "name": "Omraam Mikhaël Aïvanhov",
+      "dob": "Jan 31, 1900",
+      "img_url": "https://www.bornglorious.com/newthumbs/20/23/2023533.jpg",
+      "id": "126"
+     },
+     {
+      "name": "Helena Roerich",
+      "dob": "Jan 31, 1879",
+      "img_url": "https://www.bornglorious.com/newthumbs/27/14/271493.jpg",
+      "id": "127"
+     },
+     {
+      "name": "Alois Riegl",
+      "dob": "Jan 14, 1858",
+      "img_url": "https://www.bornglorious.com/newthumbs/69/21/692100.jpg",
+      "id": "128"
+     },
+     {
+      "name": "Bhikhu Parekh",
+      "dob": "Jan 04, 1935",
+      "img_url": "https://www.bornglorious.com/newthumbs/33/58/335835.jpg",
+      "id": "129"
+     },
+     {
+      "name": "Johann Reuchlin",
+      "dob": "Jan 29, 1455",
+      "img_url": "https://www.bornglorious.com/newthumbs/61/06/61067.jpg",
+      "id": "130"
+     },
+     {
+      "name": "Morteza Motahhari",
+      "dob": "Jan 31, 1919",
+      "img_url": "https://www.bornglorious.com/newthumbs/13/97/1397229.jpg",
+      "id": "131"
+     },
+     {
+      "name": "Cai Yuanpei",
+      "dob": "Jan 11, 1868",
+      "img_url": "https://www.bornglorious.com/newthumbs/19/79/19796.jpg",
+      "id": "132"
+     },
+     {
+      "name": "Yeshayahu Leibowitz",
+      "dob": "Jan 29, 1903",
+      "img_url": "https://www.bornglorious.com/newthumbs/21/59/215927.jpg",
+      "id": "133"
+     },
+     {
+      "name": "Max More",
+      "dob": "Jan 01, 1964",
+      "img_url": "https://www.bornglorious.com/newthumbs/25/40/254016.jpg",
+      "id": "134"
+     },
+     {
+      "name": "Nicholas Wolterstorff",
+      "dob": "Jan 21, 1932",
+      "img_url": "https://www.bornglorious.com/newthumbs/70/26/7026429.jpg",
+      "id": "135"
+     },
+     {
+      "name": "Étienne Cabet",
+      "dob": "Jan 01, 1788",
+      "img_url": "https://www.bornglorious.com/newthumbs/28/94/289478.jpg",
+      "id": "136"
+     },
+     {
+      "name": "Ányos Jedlik",
+      "dob": "Jan 11, 1800",
+      "img_url": "https://www.bornglorious.com/newthumbs/25/21/252142.jpg",
+      "id": "137"
+     },
+     {
+      "name": "Basilios Bessarion",
+      "dob": "Jan 02, 1403",
+      "img_url": "https://www.bornglorious.com/newthumbs/29/94/299446.png",
+      "id": "138"
+     },
+     {
+      "name": "Heinrich Blücher",
+      "dob": "Jan 29, 1899",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Heinrich%20Bl%C3%BCcher",
+      "id": "139"
+     },
+     {
+      "name": "Bhagwan Das",
+      "dob": "Jan 12, 1869",
+      "img_url": "https://www.bornglorious.com/newthumbs/85/47/854704.jpg",
+      "id": "140"
+     },
+     {
+      "name": "Vittorio Alfieri",
+      "dob": "Jan 16, 1749",
+      "img_url": "https://www.bornglorious.com/newthumbs/29/62/296244.jpg",
+      "id": "141"
+     },
+     {
+      "name": "Susan Bordo",
+      "dob": "Jan 24, 1947",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Susan%20Bordo",
+      "id": "142"
+     },
+     {
+      "name": "Francisco Ferrer",
+      "dob": "Jan 10, 1859",
+      "img_url": "https://www.bornglorious.com/newthumbs/35/42/354202.jpg",
+      "id": "143"
+     },
+     {
+      "name": "F. H. Bradley",
+      "dob": "Jan 30, 1846",
+      "img_url": "https://www.bornglorious.com/newthumbs/35/02/350236.gif",
+      "id": "144"
+     },
+     {
+      "name": "Gaspar Melchor de Jovellanos",
+      "dob": "Jan 05, 1744",
+      "img_url": "https://www.bornglorious.com/newthumbs/28/24/282498.jpg",
+      "id": "145"
+     },
+     {
+      "name": "Ljubodrag Simonović",
+      "dob": "Jan 10, 1949",
+      "img_url": "https://www.bornglorious.com/newthumbs/12/85/1285583.jpg",
+      "id": "146"
+     },
+     {
+      "name": "Paul Deussen",
+      "dob": "Jan 07, 1845",
+      "img_url": "https://www.bornglorious.com/newthumbs/26/71/26714.jpg",
+      "id": "147"
+     },
+     {
+      "name": "Jaakko Hintikka",
+      "dob": "Jan 12, 1929",
+      "img_url": "https://www.bornglorious.com/newthumbs/28/87/288756.jpg",
+      "id": "148"
+     },
+     {
+      "name": "G. M. Syed",
+      "dob": "Jan 17, 1904",
+      "img_url": "https://www.bornglorious.com/newthumbs/46/98/4698642.jpg",
+      "id": "149"
+     },
+     {
+      "name": "Swami Brahmananda",
+      "dob": "Jan 21, 1863",
+      "img_url": "https://www.bornglorious.com/newthumbs/32/69/3269702.jpg",
+      "id": "150"
+     },
+     {
+      "name": "Sarojini Sahoo",
+      "dob": "Jan 04, 1956",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/82/3182884.jpg",
+      "id": "151"
+     },
+     {
+      "name": "Isabel Paterson",
+      "dob": "Jan 22, 1886",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Isabel%20Paterson",
+      "id": "152"
+     },
+     {
+      "name": "Rudolf Christoph Eucken",
+      "dob": "Jan 05, 1846",
+      "img_url": "https://www.bornglorious.com/newthumbs/47/69/47695.jpg",
+      "id": "153"
+     },
+     {
+      "name": "James Mark Baldwin",
+      "dob": "Jan 12, 1861",
+      "img_url": "https://www.bornglorious.com/newthumbs/55/31/553132.jpg",
+      "id": "154"
+     },
+     {
+      "name": "Karl Menger",
+      "dob": "Jan 13, 1902",
+      "img_url": "https://www.bornglorious.com/newthumbs/93/69/93690.jpg",
+      "id": "155"
+     },
+     {
+      "name": "Kenan Malik",
+      "dob": "Jan 26, 1960",
+      "img_url": "https://www.bornglorious.com/newthumbs/17/38/1738687.jpg",
+      "id": "156"
+     },
+     {
+      "name": "Eugen Dühring",
+      "dob": "Jan 12, 1833",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Eugen%20D%C3%BChring",
+      "id": "157"
+     },
+     {
+      "name": "Edward Fredkin",
+      "dob": "Jan 01, 1934",
+      "img_url": "https://www.bornglorious.com/newthumbs/12/92/1292266.jpg",
+      "id": "158"
+     },
+     {
+      "name": "Karl Löwith",
+      "dob": "Jan 09, 1897",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Karl%20L%C3%B6with",
+      "id": "159"
+     },
+     {
+      "name": "Mikhail Speransky",
+      "dob": "Jan 01, 1772",
+      "img_url": "https://www.bornglorious.com/newthumbs/52/70/527037.jpg",
+      "id": "160"
+     },
+     {
+      "name": "Mikhail Speransky",
+      "dob": "Jan 01, 1772",
+      "id": "161"
+     },
+     {
+      "name": "Hossein Elahi Ghomshei",
+      "dob": "Jan 04, 1940",
+      "img_url": "https://www.bornglorious.com/newthumbs/10/29/10291883.jpg",
+      "id": "162"
+     },
+     {
+      "name": "Babu Gulabrai",
+      "dob": "Jan 17, 1888",
+      "img_url": "https://www.bornglorious.com/newthumbs/48/38/4838049.jpg",
+      "id": "163"
+     },
+     {
+      "name": "Raza Kazim",
+      "dob": "Jan 13, 1930",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Raza%20Kazim",
+      "id": "164"
+     },
+     {
+      "name": "Jean Hyppolite",
+      "dob": "Jan 08, 1907",
+      "img_url": "https://www.bornglorious.com/newthumbs/54/04/540407.jpg",
+      "id": "165"
+     },
+     {
+      "name": "Luc Ferry",
+      "dob": "Jan 03, 1951",
+      "img_url": "https://www.bornglorious.com/newthumbs/74/01/740110.jpg",
+      "id": "166"
+     },
+     {
+      "name": "Alexander Pruss",
+      "dob": "Jan 05, 1973",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Alexander%20Pruss",
+      "id": "167"
+     },
+     {
+      "name": "Bonny Hicks",
+      "dob": "Jan 05, 1968",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Bonny%20Hicks",
+      "id": "168"
+     },
+     {
+      "name": "Ismail al-Faruqi",
+      "dob": "Jan 01, 1921",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Ismail%20al-Faruqi",
+      "id": "169"
+     },
+     {
+      "name": "Guillaume Budé",
+      "dob": "Jan 26, 1467",
+      "img_url": "https://www.bornglorious.com/newthumbs/35/36/353668.jpg",
+      "id": "170"
+     },
+     {
+      "name": "Jean-Pierre Vernant",
+      "dob": "Jan 04, 1914",
+      "img_url": "https://www.bornglorious.com/newthumbs/47/22/472206.jpg",
+      "id": "171"
+     },
+     {
+      "name": "Florian Znaniecki",
+      "dob": "Jan 15, 1882",
+      "img_url": "https://www.bornglorious.com/newthumbs/59/91/599197.jpg",
+      "id": "172"
+     },
+     {
+      "name": "Victor J. Stenger",
+      "dob": "Jan 29, 1935",
+      "img_url": "https://www.bornglorious.com/newthumbs/13/80/1380183.JPG",
+      "id": "173"
+     },
+     {
+      "name": "Euclides da Cunha",
+      "dob": "Jan 20, 1866",
+      "img_url": "https://www.bornglorious.com/newthumbs/47/03/470334.jpg",
+      "id": "174"
+     },
+     {
+      "name": "Ioan Petru Culianu",
+      "dob": "Jan 05, 1950",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Ioan%20Petru%20Culianu",
+      "id": "175"
+     },
+     {
+      "name": "Sylvie Le Bon-de Beauvoir",
+      "dob": "Jan 17, 1941",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Sylvie%20Le%20Bon-de%20Beauvoir",
+      "id": "176"
+     },
+     {
+      "name": "Soh Jaipil",
+      "dob": "Jan 07, 1864",
+      "img_url": "https://www.bornglorious.com/newthumbs/31/99/319934.jpg",
+      "id": "177"
+     },
+     {
+      "name": "Richard L. Rubenstein",
+      "dob": "Jan 08, 1924",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Richard%20L.%20Rubenstein",
+      "id": "178"
+     },
+     {
+      "name": "Ion Heliade Rădulescu",
+      "dob": "Jan 06, 1802",
+      "img_url": "https://www.bornglorious.com/newthumbs/20/71/2071370.jpg",
+      "id": "179"
+     },
+     {
+      "name": "Isidore Isou",
+      "dob": "Jan 29, 1925",
+      "img_url": "https://www.bornglorious.com/newthumbs/70/84/708473.jpg",
+      "id": "180"
+     },
+     {
+      "name": "Jean-François Revel",
+      "dob": "Jan 19, 1924",
+      "img_url": "https://www.bornglorious.com/newthumbs/45/54/455421.jpg",
+      "id": "181"
+     },
+     {
+      "name": "Tyler Burge",
+      "dob": "Jan 01, 1946",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Tyler%20Burge",
+      "id": "182"
+     },
+     {
+      "name": "William Galston",
+      "dob": "Jan 17, 1946",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=William%20Galston",
+      "id": "183"
+     },
+     {
+      "name": "Carl Gustav Carus",
+      "dob": "Jan 03, 1789",
+      "img_url": "https://www.bornglorious.com/newthumbs/61/98/61987.JPG",
+      "id": "184"
+     },
+     {
+      "name": "Fernando Flores",
+      "dob": "Jan 09, 1943",
+      "img_url": "https://www.bornglorious.com/newthumbs/50/43/504346.jpg",
+      "id": "185"
+     },
+     {
+      "name": "Peter Winch",
+      "dob": "Jan 14, 1926",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Peter%20Winch",
+      "id": "186"
+     },
+     {
+      "name": "Fred Sommers",
+      "dob": "Jan 01, 1923",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Fred%20Sommers",
+      "id": "187"
+     },
+     {
+      "name": "Louis Claude de Saint-Martin",
+      "dob": "Jan 18, 1743",
+      "img_url": "https://www.bornglorious.com/newthumbs/47/20/47208.jpg",
+      "id": "188"
+     },
+     {
+      "name": "Sébastien Faure",
+      "dob": "Jan 06, 1858",
+      "img_url": "https://www.bornglorious.com/newthumbs/13/75/1375013.jpg",
+      "id": "189"
+     },
+     {
+      "name": "Mohammad Abdul Ghafoor Hazarvi",
+      "dob": "Jan 01, 1909",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Mohammad%20Abdul%20Ghafoor%20Hazarvi",
+      "id": "190"
+     },
+     {
+      "name": "Lascelles Abercrombie",
+      "dob": "Jan 09, 1881",
+      "img_url": "https://www.bornglorious.com/nothumb/?nm=Lascelles%20Abercrombie",
+      "id": "191"
+     }
+    ]
+   }
